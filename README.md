@@ -88,7 +88,7 @@ The "Get Your Guide" app is a web application for booking guides at different lo
 |   |   |-- ...
 |-- ...
 
-
+```
 
 ## Backend
 server.js: Main file for setting up the Express server.
